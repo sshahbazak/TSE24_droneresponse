@@ -1,0 +1,1 @@
+2024-07-24/16_24_37.ulg, ('AUTO.RTL', 615, 1), {"mission_complete": false}, 

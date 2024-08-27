@@ -1,0 +1,1356 @@
+{
+    "filename": "2024-07-20/23_50_33.ulg",
+    "mission": "(550, 'BriarWaypoint2')",
+    "max_deviation": 0.07767809999999997,
+    "max_altitude": 12.7054615,
+    "duration": "0:01:14",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Flying",
+        "throttle_Mid"
+    ],
+    "combination_index": 0,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-20/23_52_02.ulg",
+    "mission": "('AUTO.RTL', 'BriarWaypoint2')",
+    "max_deviation": 14.14927517,
+    "max_altitude": 29.792356,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "states_Flying",
+        "modes_RTL"
+    ],
+    "combination_index": 0,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-20/23_53_58.ulg",
+    "mission": "('AUTO.RTL', 550, 'BriarWaypoint')",
+    "max_deviation": 33.491771203,
+    "max_altitude": 2.1239698,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "states_Flying",
+        "modes_RTL",
+        "throttle_Mid"
+    ],
+    "combination_index": 0,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-20/23_55_54.ulg",
+    "mission": "(0,)",
+    "max_deviation": 0.10821587000000002,
+    "max_altitude": 12.851924,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_None"
+    ],
+    "combination_index": 0,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-20/23_57_30.ulg",
+    "mission": "(550, 0)",
+    "max_deviation": 0.08943939000000004,
+    "max_altitude": 12.8290825,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_None",
+        "throttle_Mid"
+    ],
+    "combination_index": 0,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-20/23_59_06.ulg",
+    "mission": "('AUTO.RTL', 0)",
+    "max_deviation": 0.09820590000000001,
+    "max_altitude": 12.82809,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_None",
+        "modes_RTL"
+    ],
+    "combination_index": 0,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_00_41.ulg",
+    "mission": "('AUTO.RTL', 550, 0)",
+    "max_deviation": 0.10133411000000003,
+    "max_altitude": 12.83025,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_None",
+        "modes_RTL",
+        "throttle_Mid"
+    ],
+    "combination_index": 0,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_02_18.ulg",
+    "mission": "(0, 'Land')",
+    "max_deviation": 0.10626142000000002,
+    "max_altitude": 12.851829,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Land",
+        "throttle_Low"
+    ],
+    "combination_index": 1,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_03_54.ulg",
+    "mission": "('AUTO.LOITER', 'Land')",
+    "max_deviation": 0.09664790000000001,
+    "max_altitude": 12.802909,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "states_Land",
+        "modes_LOITER"
+    ],
+    "combination_index": 1,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/00_05_50.ulg",
+    "mission": "('AUTO.LOITER', 0, 'Land')",
+    "max_deviation": 0.10354476000000001,
+    "max_altitude": 12.842715,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "states_Land",
+        "modes_LOITER",
+        "throttle_Low"
+    ],
+    "combination_index": 1,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/00_07_45.ulg",
+    "mission": "(5,)",
+    "max_deviation": 24.282728,
+    "max_altitude": 4.870514,
+    "duration": "0:00:36",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Land"
+    ],
+    "combination_index": 1,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_09_40.ulg",
+    "mission": "(0, 5)",
+    "max_deviation": 24.293442,
+    "max_altitude": 4.8679805,
+    "duration": "0:00:36",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Land",
+        "throttle_Low"
+    ],
+    "combination_index": 1,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_11_34.ulg",
+    "mission": "('AUTO.LOITER', 5)",
+    "max_deviation": 23.389297,
+    "max_altitude": 4.9026213,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Land",
+        "modes_LOITER"
+    ],
+    "combination_index": 1,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_13_30.ulg",
+    "mission": "('AUTO.LOITER', 0, 5)",
+    "max_deviation": 23.439044000000003,
+    "max_altitude": 4.907243,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Land",
+        "modes_LOITER",
+        "throttle_Low"
+    ],
+    "combination_index": 1,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_15_25.ulg",
+    "mission": "(600, 'BriarHover')",
+    "max_deviation": 0.10258120000000001,
+    "max_altitude": 12.831125,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Hover",
+        "throttle_High"
+    ],
+    "combination_index": 2,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_17_02.ulg",
+    "mission": "('AUTO.LAND', 'BriarHover')",
+    "max_deviation": 0.09603330000000002,
+    "max_altitude": 12.89873,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Hover",
+        "modes_LAND"
+    ],
+    "combination_index": 2,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_18_38.ulg",
+    "mission": "('AUTO.LAND', 600, 'BriarHover')",
+    "max_deviation": 14.269317080599999,
+    "max_altitude": 20.26348,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "states_Hover",
+        "modes_LAND",
+        "throttle_High"
+    ],
+    "combination_index": 2,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/00_20_34.ulg",
+    "mission": "(3,)",
+    "max_deviation": 24.116678,
+    "max_altitude": 5.2746825,
+    "duration": "0:00:41",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Return"
+    ],
+    "combination_index": 2,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_22_27.ulg",
+    "mission": "(600, 3)",
+    "max_deviation": 24.1350355,
+    "max_altitude": 5.6857443,
+    "duration": "0:00:41",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Return",
+        "throttle_High"
+    ],
+    "combination_index": 2,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_24_22.ulg",
+    "mission": "('AUTO.LAND', 3)",
+    "max_deviation": 24.197488,
+    "max_altitude": 4.9709797,
+    "duration": "0:00:36",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Return",
+        "modes_LAND"
+    ],
+    "combination_index": 2,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_26_16.ulg",
+    "mission": "('AUTO.LAND', 600, 3)",
+    "max_deviation": 24.112589,
+    "max_altitude": 5.0300035,
+    "duration": "0:00:37",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Return",
+        "modes_LAND",
+        "throttle_High"
+    ],
+    "combination_index": 2,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_28_10.ulg",
+    "mission": "(615, 'Takeoff')",
+    "max_deviation": 0.10105819999999999,
+    "max_altitude": 12.832606,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Takeoff",
+        "throttle_High"
+    ],
+    "combination_index": 3,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_29_46.ulg",
+    "mission": "('POSCTL', 'Takeoff')",
+    "max_deviation": 0.10031727000000001,
+    "max_altitude": 12.858735,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Takeoff",
+        "modes_POSCTL"
+    ],
+    "combination_index": 3,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_31_22.ulg",
+    "mission": "('POSCTL', 615, 'Takeoff')",
+    "max_deviation": 0.10041586000000002,
+    "max_altitude": 12.873156,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Takeoff",
+        "modes_POSCTL",
+        "throttle_High"
+    ],
+    "combination_index": 3,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_32_58.ulg",
+    "mission": "(1,)",
+    "max_deviation": 0.10301936000000003,
+    "max_altitude": 12.854683,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_Warning"
+    ],
+    "combination_index": 3,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/00_34_34.ulg",
+    "mission": "(615, 1)",
+    "max_deviation": 0.10376254000000001,
+    "max_altitude": 12.814827,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_Warning",
+        "throttle_High"
+    ],
+    "combination_index": 3,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/00_36_09.ulg",
+    "mission": "('POSCTL', 1)",
+    "max_deviation": 0.09770177000000002,
+    "max_altitude": 12.838369,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_Warning",
+        "modes_POSCTL"
+    ],
+    "combination_index": 3,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/00_37_46.ulg",
+    "mission": "('POSCTL', 615, 1)",
+    "max_deviation": 21.778646000000002,
+    "max_altitude": 17.363922,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Warning",
+        "modes_POSCTL",
+        "throttle_High"
+    ],
+    "combination_index": 3,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_39_42.ulg",
+    "mission": "(550, 'BriarWaypoint2')",
+    "max_deviation": 0.10036705000000001,
+    "max_altitude": 12.830896,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Flying",
+        "throttle_Mid"
+    ],
+    "combination_index": 4,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_41_18.ulg",
+    "mission": "('STABILIZED', 'BriarWaypoint')",
+    "max_deviation": 0.10068704000000003,
+    "max_altitude": 12.832436,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Flying",
+        "modes_STABILIZED"
+    ],
+    "combination_index": 4,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_42_54.ulg",
+    "mission": "('STABILIZED', 435, 'BriarWaypoint2')",
+    "max_deviation": 14.2692968,
+    "max_altitude": 12.649641,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "states_Flying",
+        "modes_STABILIZED",
+        "throttle_Mid"
+    ],
+    "combination_index": 4,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/00_44_51.ulg",
+    "mission": "(0,)",
+    "max_deviation": 0.08934550000000002,
+    "max_altitude": 12.87381,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_None"
+    ],
+    "combination_index": 4,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_46_27.ulg",
+    "mission": "(550, 0)",
+    "max_deviation": 0.09890369999999993,
+    "max_altitude": 12.851331,
+    "duration": "0:01:20",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_None",
+        "throttle_Mid"
+    ],
+    "combination_index": 4,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_48_03.ulg",
+    "mission": "('STABILIZED', 0)",
+    "max_deviation": 0.10893482000000002,
+    "max_altitude": 12.8562,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_None",
+        "modes_STABILIZED"
+    ],
+    "combination_index": 4,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_49_39.ulg",
+    "mission": "('STABILIZED', 435, 0)",
+    "max_deviation": 0.10023803000000003,
+    "max_altitude": 12.825529,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_None",
+        "modes_STABILIZED",
+        "throttle_Mid"
+    ],
+    "combination_index": 4,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_51_16.ulg",
+    "mission": "(0, 'BriarHover')",
+    "max_deviation": 0.09272350000000001,
+    "max_altitude": 12.873233,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Hover",
+        "throttle_Low"
+    ],
+    "combination_index": 5,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/00_52_52.ulg",
+    "mission": "('POSCTL', 'BriarHover')",
+    "max_deviation": 0.08137729999999999,
+    "max_altitude": 12.8280525,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Hover",
+        "modes_POSCTL"
+    ],
+    "combination_index": 5,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/00_54_27.ulg",
+    "mission": "('POSCTL', 0, 'BriarHover')",
+    "max_deviation": 14.2694264722,
+    "max_altitude": 12.542021,
+    "duration": "0:00:56",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "states_Hover",
+        "modes_POSCTL",
+        "throttle_Low"
+    ],
+    "combination_index": 5,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/00_56_22.ulg",
+    "mission": "(1,)",
+    "max_deviation": 0.10023834000000004,
+    "max_altitude": 12.83071,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_Warning"
+    ],
+    "combination_index": 5,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/00_57_58.ulg",
+    "mission": "(260, 1)",
+    "max_deviation": 0.10419641000000002,
+    "max_altitude": 12.851168,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_Warning",
+        "throttle_Low"
+    ],
+    "combination_index": 5,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/00_59_35.ulg",
+    "mission": "('POSCTL', 1)",
+    "max_deviation": 0.10213225000000004,
+    "max_altitude": 12.833678,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_Warning",
+        "modes_POSCTL"
+    ],
+    "combination_index": 5,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/01_01_11.ulg",
+    "mission": "('POSCTL', 0, 1)",
+    "max_deviation": 21.133564,
+    "max_altitude": 5.5489974,
+    "duration": "0:00:37",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Warning",
+        "modes_POSCTL",
+        "throttle_Low"
+    ],
+    "combination_index": 5,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/01_03_05.ulg",
+    "mission": "(550, 'Land')",
+    "max_deviation": 0.10073456000000003,
+    "max_altitude": 12.832578,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "states_Land",
+        "throttle_Mid"
+    ],
+    "combination_index": 6,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_05_00.ulg",
+    "mission": "('OFFBOARD', 'Land')",
+    "max_deviation": 0.32292073106,
+    "max_altitude": 12.98543,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Land",
+        "modes_OFFBOARD"
+    ],
+    "combination_index": 6,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_06_36.ulg",
+    "mission": "('OFFBOARD', 550, 'Land')",
+    "max_deviation": 0.09828219000000002,
+    "max_altitude": 12.828494,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Land",
+        "modes_OFFBOARD",
+        "throttle_Mid"
+    ],
+    "combination_index": 6,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_08_11.ulg",
+    "mission": "(5,)",
+    "max_deviation": 24.217606000000004,
+    "max_altitude": 4.873007,
+    "duration": "0:00:36",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Land"
+    ],
+    "combination_index": 6,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_10_06.ulg",
+    "mission": "(550, 5)",
+    "max_deviation": 24.379281,
+    "max_altitude": 4.831112,
+    "duration": "0:00:36",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Land",
+        "throttle_Mid"
+    ],
+    "combination_index": 6,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_12_00.ulg",
+    "mission": "('OFFBOARD', 5)",
+    "max_deviation": 20.507301000000002,
+    "max_altitude": 6.305692,
+    "duration": "0:00:40",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Land",
+        "modes_OFFBOARD"
+    ],
+    "combination_index": 6,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_13_54.ulg",
+    "mission": "('OFFBOARD', 550, 5)",
+    "max_deviation": 21.207357000000002,
+    "max_altitude": 6.529602,
+    "duration": "0:00:41",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Land",
+        "modes_OFFBOARD",
+        "throttle_Mid"
+    ],
+    "combination_index": 6,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_15_49.ulg",
+    "mission": "(600, 'Takeoff')",
+    "max_deviation": 0.10013661000000001,
+    "max_altitude": 12.830994,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Takeoff",
+        "throttle_High"
+    ],
+    "combination_index": 7,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_17_26.ulg",
+    "mission": "('AUTO.RTL', 'Takeoff')",
+    "max_deviation": 0.10189025000000002,
+    "max_altitude": 12.848546,
+    "duration": "0:01:20",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Takeoff",
+        "modes_RTL"
+    ],
+    "combination_index": 7,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_19_02.ulg",
+    "mission": "('AUTO.RTL', 600, 'Takeoff')",
+    "max_deviation": 0.10072212000000003,
+    "max_altitude": 12.856652,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Takeoff",
+        "modes_RTL",
+        "throttle_High"
+    ],
+    "combination_index": 7,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_20_37.ulg",
+    "mission": "(3,)",
+    "max_deviation": 24.196677,
+    "max_altitude": 5.279024,
+    "duration": "0:00:41",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Return"
+    ],
+    "combination_index": 7,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_22_32.ulg",
+    "mission": "(600, 3)",
+    "max_deviation": 24.140275000000003,
+    "max_altitude": 5.2737055,
+    "duration": "0:00:41",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Return",
+        "throttle_High"
+    ],
+    "combination_index": 7,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_24_26.ulg",
+    "mission": "('AUTO.RTL', 3)",
+    "max_deviation": 24.170642,
+    "max_altitude": 5.283428,
+    "duration": "0:00:41",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Return",
+        "modes_RTL"
+    ],
+    "combination_index": 7,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_26_21.ulg",
+    "mission": "('AUTO.RTL', 600, 3)",
+    "max_deviation": 24.331206,
+    "max_altitude": 5.547011,
+    "duration": "0:00:41",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Return",
+        "modes_RTL",
+        "throttle_High"
+    ],
+    "combination_index": 7,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_28_14.ulg",
+    "mission": "(550, 'BriarWaypoint3')",
+    "max_deviation": 0.10059850000000004,
+    "max_altitude": 12.826332,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Flying",
+        "throttle_Mid"
+    ],
+    "combination_index": 8,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_29_50.ulg",
+    "mission": "('AUTO.LOITER', 'BriarWaypoint2')",
+    "max_deviation": 0.07224130000000004,
+    "max_altitude": 12.916635,
+    "duration": "0:01:22",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "states_Flying",
+        "modes_LOITER"
+    ],
+    "combination_index": 8,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/01_31_46.ulg",
+    "mission": "('AUTO.LOITER', 550, 'BriarWaypoint2')",
+    "max_deviation": 14.2693155007,
+    "max_altitude": 12.753806,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "states_Flying",
+        "modes_LOITER",
+        "throttle_Mid"
+    ],
+    "combination_index": 8,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_33_41.ulg",
+    "mission": "(0,)",
+    "max_deviation": 0.10339900000000002,
+    "max_altitude": 12.837754,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_None"
+    ],
+    "combination_index": 8,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_35_17.ulg",
+    "mission": "(550, 0)",
+    "max_deviation": 0.09905428000000002,
+    "max_altitude": 12.854581,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_None",
+        "throttle_Mid"
+    ],
+    "combination_index": 8,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_36_53.ulg",
+    "mission": "('AUTO.LOITER', 0)",
+    "max_deviation": 0.10353337000000001,
+    "max_altitude": 12.858836,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_None",
+        "modes_LOITER"
+    ],
+    "combination_index": 8,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/01_38_29.ulg",
+    "mission": "('AUTO.LOITER', 550, 0)",
+    "max_deviation": 0.10098751000000003,
+    "max_altitude": 12.828868,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_None",
+        "modes_LOITER",
+        "throttle_Mid"
+    ],
+    "combination_index": 8,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/01_40_05.ulg",
+    "mission": "(260, 'Land')",
+    "max_deviation": 0.10023047000000002,
+    "max_altitude": 12.82829,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "states_Land",
+        "throttle_Low"
+    ],
+    "combination_index": 9,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_42_00.ulg",
+    "mission": "('AUTO.LAND', 'Land')",
+    "max_deviation": 0.10246779000000003,
+    "max_altitude": 12.832828,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Land",
+        "modes_LAND"
+    ],
+    "combination_index": 9,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_43_36.ulg",
+    "mission": "('AUTO.LAND', 0, 'Land')",
+    "max_deviation": 0.10238186000000002,
+    "max_altitude": 12.854,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Land",
+        "modes_LAND",
+        "throttle_Low"
+    ],
+    "combination_index": 9,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_45_12.ulg",
+    "mission": "(5,)",
+    "max_deviation": 24.076158,
+    "max_altitude": 4.9083414,
+    "duration": "0:00:36",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Land"
+    ],
+    "combination_index": 9,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_47_06.ulg",
+    "mission": "(0, 5)",
+    "max_deviation": 24.394372,
+    "max_altitude": 4.828939,
+    "duration": "0:00:36",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Land",
+        "throttle_Low"
+    ],
+    "combination_index": 9,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_49_00.ulg",
+    "mission": "('AUTO.LAND', 5)",
+    "max_deviation": 24.344126000000003,
+    "max_altitude": 4.847097,
+    "duration": "0:00:36",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Land",
+        "modes_LAND"
+    ],
+    "combination_index": 9,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_50_55.ulg",
+    "mission": "('AUTO.LAND', 0, 5)",
+    "max_deviation": 24.375742000000002,
+    "max_altitude": 4.8384542,
+    "duration": "0:00:36",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Land",
+        "modes_LAND",
+        "throttle_Low"
+    ],
+    "combination_index": 9,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_52_49.ulg",
+    "mission": "(600, 'BriarHover')",
+    "max_deviation": 0.10047233000000003,
+    "max_altitude": 12.83857,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Hover",
+        "throttle_High"
+    ],
+    "combination_index": 10,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_54_25.ulg",
+    "mission": "('STABILIZED', 'BriarHover')",
+    "max_deviation": 0.09967419999999994,
+    "max_altitude": 12.80485,
+    "duration": "0:01:20",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Hover",
+        "modes_STABILIZED"
+    ],
+    "combination_index": 10,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_56_01.ulg",
+    "mission": "('STABILIZED', 445, 'BriarHover')",
+    "max_deviation": 14.2693237943,
+    "max_altitude": 46.545048,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "states_Hover",
+        "modes_STABILIZED",
+        "throttle_High"
+    ],
+    "combination_index": 10,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/01_57_56.ulg",
+    "mission": "(3,)",
+    "max_deviation": 24.386638,
+    "max_altitude": 5.6320467,
+    "duration": "0:00:41",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Return"
+    ],
+    "combination_index": 10,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/01_59_51.ulg",
+    "mission": "(600, 3)",
+    "max_deviation": 24.155859,
+    "max_altitude": 5.195332,
+    "duration": "0:00:41",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Return",
+        "throttle_High"
+    ],
+    "combination_index": 10,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/02_01_45.ulg",
+    "mission": "('STABILIZED', 3)",
+    "max_deviation": 24.152776000000003,
+    "max_altitude": 5.6001387,
+    "duration": "0:00:41",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Return",
+        "modes_STABILIZED"
+    ],
+    "combination_index": 10,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/02_03_40.ulg",
+    "mission": "('STABILIZED', 445, 3)",
+    "max_deviation": 24.227516,
+    "max_altitude": 46.987965,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Return",
+        "modes_STABILIZED",
+        "throttle_High"
+    ],
+    "combination_index": 10,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/02_05_34.ulg",
+    "mission": "(615, 'Takeoff')",
+    "max_deviation": 0.10073770000000004,
+    "max_altitude": 12.825716,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Takeoff",
+        "throttle_High"
+    ],
+    "combination_index": 11,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/02_07_10.ulg",
+    "mission": "('AUTO.RTL', 'Takeoff')",
+    "max_deviation": 0.10116560000000002,
+    "max_altitude": 12.848478,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Takeoff",
+        "modes_RTL"
+    ],
+    "combination_index": 11,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/02_08_46.ulg",
+    "mission": "('AUTO.RTL', 615, 'Takeoff')",
+    "max_deviation": 0.10382242000000003,
+    "max_altitude": 12.899887,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "states_Takeoff",
+        "modes_RTL",
+        "throttle_High"
+    ],
+    "combination_index": 11,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/02_10_22.ulg",
+    "mission": "(1,)",
+    "max_deviation": 0.10173404000000003,
+    "max_altitude": 12.861433,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_Warning"
+    ],
+    "combination_index": 11,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/02_11_58.ulg",
+    "mission": "(615, 1)",
+    "max_deviation": 0.13339153000000004,
+    "max_altitude": 12.915094,
+    "duration": "0:01:21",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": true,
+    "combination": [
+        "GFACT_Warning",
+        "throttle_High"
+    ],
+    "combination_index": 11,
+    "anomaly": true
+}
+{
+    "filename": "2024-07-21/02_13_33.ulg",
+    "mission": "('AUTO.RTL', 1)",
+    "max_deviation": 19.064573000000003,
+    "max_altitude": 29.889006,
+    "duration": "0:01:19",
+    "final_landing_state": true,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Warning",
+        "modes_RTL"
+    ],
+    "combination_index": 11,
+    "anomaly": false
+}
+{
+    "filename": "2024-07-21/02_15_28.ulg",
+    "mission": "('AUTO.RTL', 615, 1)",
+    "max_deviation": 18.307541,
+    "max_altitude": 18.10988,
+    "duration": "0:01:22",
+    "final_landing_state": false,
+    "freefall_occurred": false,
+    "mission_complete": false,
+    "combination": [
+        "GFACT_Warning",
+        "modes_RTL",
+        "throttle_High"
+    ],
+    "combination_index": 11,
+    "anomaly": true
+}
