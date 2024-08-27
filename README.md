@@ -1,1 +1,0 @@
-# TSE24_droneresponse
